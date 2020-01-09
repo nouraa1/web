@@ -1,0 +1,45 @@
+body{
+	background:#FCF3CF;
+    
+		
+		
+	}
+	/* Middle column */
+.column {
+  width: 75%;
+  color: black;
+  text-align: justify;
+  text-justify: inter-word;
+  border: 4px solid #FCF3CF;
+  padding-top: 40px;
+  
+}
+.new
+{
+	background:#FAD7A0
+}
+.newcont
+{
+	width: 60%;
+   border: 4px solid #FCF3CF;
+  padding-top: 20px;
+  height:50%;
+}
+
+.footer{
+ 
+	background:#D5F5E3 ;
+	
+}
+.heder{
+ 
+	background:#FCF5D9;
+	
+}
+.media{
+	width: 5%;
+  border: 4px solid #D5F5E3;
+  padding-top: 40px;
+  height:5%;
+  
+}
